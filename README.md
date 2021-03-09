@@ -9,4 +9,5 @@ Kibru havo nimaga kerak?
 Kamtarin bo'l, hatto bir qadam
 O'tma g'urur ostonasidan.
 Piyolani inson shuning-chun
-O'par doim peshonasidan.```
+O'par doim peshonasidan.
+```
