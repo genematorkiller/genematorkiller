@@ -1,4 +1,4 @@
-### Gnematorkiller ☠️
+### Genematorkiller ☠️
 
 ```
 Garchi shuncha mag'rur tursa ham,
