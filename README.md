@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+Garchi shuncha mag'rur tursa ham,
+Piyolaga egilar choynak.
+Shunday ekan, manmanlik nechun,
+Kibru havo nimaga kerak? 
+Kamtarin bo'l, hatto bir qadam
+O'tma g'urur ostonasidan.
+Piyolani inson shuning-chun
+O'par doim peshonasidan.
+
 <!--
 **gnematorkiller/gnematorkiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
