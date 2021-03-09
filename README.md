@@ -1,6 +1,7 @@
 ### Gnematorkiller ☠️
 
-```Garchi shuncha mag'rur tursa ham,
+```
+Garchi shuncha mag'rur tursa ham,
 Piyolaga egilar choynak.
 Shunday ekan, manmanlik nechun,
 Kibru havo nimaga kerak?
