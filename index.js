@@ -19,7 +19,7 @@ async function writeFn(path) {
      console.error(err)
    }
 
-   let newContent = [...contentArr, "I am Senior Developer from Uzbekistan's Top 1!"]
+   let newContent = [...contentArr, "."]
 
    writeFile(path, JSON.stringify(newContent))
 }
