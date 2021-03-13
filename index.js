@@ -1,7 +1,6 @@
 const path = require('path');
 const util = require('util');
 const fs = require('fs');
-// git push -u origin main
 
 
 const filePathName = path.resolve('./genematorkiller.txt')
@@ -20,7 +19,7 @@ async function writeFn(path) {
      console.error(err)
    }
 
-   let newContent = [...contentArr, '.']
+   let newContent = [...contentArr, "I am Senior Developer from Uzbekistan's Top 1!"]
 
    writeFile(path, JSON.stringify(newContent))
 }
