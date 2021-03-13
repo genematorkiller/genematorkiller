@@ -1,6 +1,7 @@
 const path = require('path');
 const util = require('util');
 const fs = require('fs');
+// git push -u origin main
 
 
 const filePathName = path.resolve('./genematorkiller.txt')
