@@ -1,6 +1,6 @@
 node index.js;
 git add .
-for (( counter=10; counter>0; counter-- ))
+for (( counter=15; counter>0; counter-- ))
 do
 git commit -m "genematorkiller commit"
 node index.js;
