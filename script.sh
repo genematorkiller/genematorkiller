@@ -1,13 +1,9 @@
 node index.js;
 git add .
+for (( counter=10; counter>0; counter-- ))
+do
 git commit -m "genematorkiller commit"
 node index.js;
 git add .
-git commit -m "genematorkiller commit"
-node index.js;
-git add .
-git commit -m "genematorkiller commit"
-node index.js;
-git add .
-git commit -m "genematorkiller commit"
+done
 git push -u origin main
